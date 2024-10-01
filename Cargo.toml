@@ -21,7 +21,7 @@ exclude = [
 ]
 
 [dependencies]
-tonic = "0.10.2"
+tonic = "0.12.3"
 prost = "0.12.3"
 
 [build-dependencies]
